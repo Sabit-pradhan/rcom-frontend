@@ -99,6 +99,20 @@
 .App-link {
   color: #61dafb;
 }
+.product-list{
+  text-align: center;
+  margin-top: 50px;
+}
+.product-list ul li{
+  display: inline-block;
+  border: 1px solid #282c34;
+  padding: 5px;
+  width: 150px;
+}
+.product-list ul{
+  margin: 0;
+}
+
 
 @keyframes App-logo-spin {
   from {
