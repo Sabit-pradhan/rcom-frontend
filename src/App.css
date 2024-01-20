@@ -112,6 +112,17 @@
 .product-list ul{
   margin: 0;
 }
+.search-product-box{
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  border: 1px solid #9c9797;
+  padding-left: 20px ;
+
+}
+
+
+
 
 
 @keyframes App-logo-spin {
